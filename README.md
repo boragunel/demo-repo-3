@@ -9,3 +9,5 @@ Some text
 5. Once created, use git remote add origin <SSH_link computer> (remote refers to somewhere else but not on the computer)
 6. You can use git remote -v which shows any remote repositories connected.
 7. you then use git push -u origin main (sets the main branch as default by using 'u')
+
+Git branching: master is the naming convention for the main or the default branch.
