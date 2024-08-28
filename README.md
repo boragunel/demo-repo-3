@@ -15,4 +15,6 @@ Git branching: master is the naming convention for the main or the default branc
 These are my new changes
 but I have multiple changes
 
+So now it is quite clear that we are seeing new changes.
+
 
