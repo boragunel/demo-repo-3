@@ -11,3 +11,17 @@ Some text
 7. you then use git push -u origin main (sets the main branch as default by using 'u')
 
 Git branching: master is the naming convention for the main or the default branch.
+
+Keep in mind that you don't need to add when using github because it does itself.
+
+the code on master and feature branch will exactly be the same.
+Basically, the idea is that you can deviate from the original branch (in this case is 'main') to other branches such as 'feature branch' or 'bug fixing branch', swtich back on forth until you fix the issues.
+
+to create another feature you use 'git checkout -b <name_of_branch>
+to switch between branches you use 'git checkout <branch_name>
+
+
+
+
+
+
