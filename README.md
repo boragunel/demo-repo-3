@@ -11,3 +11,8 @@ Some text
 7. you then use git push -u origin main (sets the main branch as default by using 'u')
 
 Git branching: master is the naming convention for the main or the default branch.
+
+These are my new changes
+but I have multiple changes
+
+
