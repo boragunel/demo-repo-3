@@ -14,6 +14,9 @@ Git branching: master is the naming convention for the main or the default branc
 to findout which branch you are on you use the command: 'git branch' on terminal
 to switch between branches, you use the command: git cbheckout <name_of_branch>
 
+Each branch only keeps track of the changes made on its own branch.
+to create a new branch you use:
+git checkout -b <name_of_my_new_branch>
 
 
 
