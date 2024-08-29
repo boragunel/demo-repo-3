@@ -20,12 +20,11 @@ Basically, the idea is that you can deviate from the original branch (in this ca
 to create another feature you use 'git checkout -b <name_of_branch>
 to switch between branches you use 'git checkout <branch_name>
 
-git diff shows what changes have been made.
-
 ## local development
 
 1. Open index.html in your browser
 
+git diff shows what changes have been made.
 
 
 
