@@ -22,6 +22,10 @@ to switch between branches you use 'git checkout <branch_name>
 
 git diff shows what changes have been made.
 
+## local development
+
+1. Open index.html in your browser
+
 
 
 
