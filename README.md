@@ -17,7 +17,6 @@ but I have multiple changes
 
 So now it is quite clear that we are seeing new changes.
 
-Hello world
-you suckkkkkk
+
 
 
