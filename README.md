@@ -11,11 +11,9 @@ Some text
 7. you then use git push -u origin main (sets the main branch as default by using 'u')
 
 Git branching: master is the naming convention for the main or the default branch.
+to findout which branch you are on you use the command: 'git branch' on terminal
+to switch between branches, you use the command: git cbheckout <name_of_branch>
 
-These are my new changes
-but I have multiple changes
-
-So now it is quite clear that we are seeing new changes.
 
 
 
